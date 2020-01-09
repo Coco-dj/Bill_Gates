@@ -1,0 +1,76 @@
+body {
+  /*background-color: lightblue;*/
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+h2 {
+  font-family: Verdana;
+}
+
+p{
+  font-family: Courier;
+}
+
+body {
+  background-image: url('../bill.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1, h2, h3, br
+{
+font-family: cursive;
+}
+body
+{
+/*background-color: black;*/
+color: black;
+}
+.menu
+{
+display: flex;
+margin: 15px;
+}
+li
+{
+  border-left: 6px solid white;
+  background-color: navajowhite;
+  width: 100px;
+  display: inline-block;
+  padding: 20px;
+}
+
+li:hover{
+  background-color: grey;
+}
+
+li#active{
+  background-color: grey;
+}
+p {
+  background-color: grey;
+  width: 500px;
+}
+p.class
+{
+  background-color: blue
+  color: black
+}
+
+.biografie
+{
+
+}
+
+.cijfer
+{
+  h1
+}
+.1955
+{
+  margin: 100px;
+  padding: 0px;
+}
